@@ -1,0 +1,23 @@
+{
+  "backgroundImage": "https://media.discordapp.net/attachments/1390954654480994414/1397527809215172741/background-1.png?ex=68820cb2&is=6880bb32&hm=92424126797d282f3bf8a8a4e410720f9773234ef5872fd740d15103360fa9be&",
+  "backgroundMusic": "/background.mp3",
+  "gameVersion": "1.0.0",
+  "gameClientUrl": "https://github.com/Gotens/resources/releases/download/V1.0.0/game.zip",
+  "gameClientTotalSize": 928589818,
+  "playerName": "Ho_Ten",
+  "contentItems": [
+    {
+      "id": 1,
+      "title": "QUÉT THẺ ĐỂ NẠP MÃ",
+      "link": "https://www.youtube.com/watch?v=DUGScM8E9Gc",
+      "description": "Video demo 1"
+    },
+    {
+      "id": 2,
+      "title": "KHUYẾN THẺ NẠP MÃI",
+      "link": "https://www.youtube.com/watch?v=FSSsU-fOluY",
+      "description": "Video demo 2"
+    } 
+  ]
+}
+
