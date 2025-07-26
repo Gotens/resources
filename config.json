@@ -5,6 +5,8 @@
   "gameClientUrl": "https://github.com/Gotens/resources/releases/download/V1.0.0/game.zip",
   "gameClientTotalSize": 928589818,
   "playerName": "Ho_Ten",
+  "gameExecutableName": "samp.exe",
+  "gameServerIp": "51.254.139.153:7777",
   "contentItems": [
     {
       "id": 1,
