@@ -1,4 +1,24 @@
 {
   "backgroundImgUrl": "https://raw.githubusercontent.com/Gotens/resources/main/background-1.png",
-  "backgroundMusicUrl": "https://raw.githubusercontent.com/Gotens/resources/main/background.mp3"
+  "backgroundMusicUrl": "https://raw.githubusercontent.com/Gotens/resources/main/background.mp3",
+  "items": [
+    {
+      "id": "1",
+      "title": "KHUYẾN THẺ NẠP MÃI",
+      "url": "https://www.youtube.com/watch?v=OlSLpD-8z3k",
+      "thumbnail": ""
+    },
+    {
+      "id": "2",
+      "title": "QUÉT THẺ NẠP MÃ",
+      "url": "https://example.com/2",
+      "thumbnail": "https://via.placeholder.com/400x300?text=2"
+    },
+    {
+      "id": "3",
+      "title": "DEMO",
+      "url": "https://google.com/",
+      "thumbnail": "https://wpmanageninja.com/wp-content/uploads/2018/06/Adding-Facebook-Thumbnail-image.png"
+    }
+  ]
 }
