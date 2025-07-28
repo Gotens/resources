@@ -27,7 +27,7 @@
       "gameVersion": "1.0.0",
       "description": "Phiên bản đầu tiên",
       "downloadUrl": "https://example.com/game-download.zip",
-      "installedPath": "",
+      "defaultConfig": "default",
       "status": "not_installed",
       "progress": 0
     }
