@@ -27,7 +27,13 @@
       "title": "Game của tôi",
       "gameVersion": "1.0.0",
       "description": "Phiên bản đầu tiên",
-      "downloadUrl": "https://example.com/game-download.zip",
+      "downloadUrls": {
+        "High": "",
+        "Medium": "",
+        "Low": "",
+        "Verylow": "",
+        "default": "https://github.com/Gotens/resources/releases/download/default/game.zip"
+      },
       "defaultConfig": "default",
       "status": "not_installed",
       "progress": 0
