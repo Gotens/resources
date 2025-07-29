@@ -35,8 +35,8 @@
         "default": "https://github.com/Gotens/resources/releases/download/default/game.zip"
       },
       "defaultConfig": "default",
-      "patchVersion": "1.0.0",
-      "patchUrl": "https://github.com/Gotens/resources/releases/download/patch/patch_v1.1.0.zip",
+      "patchVersion": "1.0.1",
+      "patchUrl": "https://github.com/Gotens/resources/releases/download/default/game.zip",
       "patchNotes": "Cập nhật mô hình xe và sửa lỗi texture."
     }
   ]
