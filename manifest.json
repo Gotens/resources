@@ -34,9 +34,7 @@
         "Verylow": "",
         "default": "https://github.com/Gotens/resources/releases/download/default/game.zip"
       },
-      "defaultConfig": "default",
-      "status": "not_installed",
-      "progress": 0
+      "defaultConfig": "default"
     }
   ]
 }
