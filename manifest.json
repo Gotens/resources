@@ -31,7 +31,7 @@
         "High": "",
         "Medium": "",
         "Low": "",
-        "Verylow": "",
+        "Verylow": "https://github.com/Gotens/resources/releases/download/default/game.zip",
         "default": "https://github.com/Gotens/resources/releases/download/default/game.zip"
       },
       "defaultConfig": "default"
