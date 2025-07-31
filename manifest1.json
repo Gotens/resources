@@ -1,0 +1,45 @@
+{
+  "backgroundImgUrl": "https://raw.githubusercontent.com/Gotens/resources/main/background-2.png",
+  "backgroundMusicUrl": "https://raw.githubusercontent.com/Gotens/resources/main/background.mp3",
+  "items": [
+    {
+      "id": "1",
+      "title": "VIỆT NAM NO.1",
+      "url": "https://pubgesports.com/vi/teams/217",
+      "thumbnail": "https://cdnmedia.webthethao.vn/thumb/720-405/uploads/2025-07-25/pnc-2025-257.jpg"
+    },
+    {
+      "id": "2",
+      "title": "QUÉT THẺ NẠP MÃ",
+      "url": "https://www.youtube.com/watch?v=9tcFnx0-cQY",
+      "thumbnail": "",
+      "duration": "05:13"
+    },
+    {
+      "id": "3",
+      "title": "DEMO",
+      "url": "https://google.com/",
+      "thumbnail": "https://media.discordapp.net/attachments/1398605375309353011/1399767225409212587/CVFB1.png"
+    }
+  ],
+  "games": [
+    {
+      "title": "Game của tôi",
+      "gameVersion": "1.0.0",
+      "description": "Phiên bản đầu tiên",
+      "downloadUrls": {
+        "High": "",
+        "Medium": "",
+        "Low": "",
+        "Verylow": "https://github.com/Gotens/resources/releases/download/default/game.zip",
+        "default": "https://github.com/Gotens/resources/releases/download/default/game.zip"
+      },
+      "defaultConfig": "default",
+      "patchVersion": "1.0.1",
+      "patchUrl": "https://github.com/Gotens/resources/releases/download/default/game.zip",
+      "patchNotes": "Cập nhật mô hình xe và sửa lỗi texture.",
+      "serverIp": "104.234.180.79",
+      "serverPort": 7777
+    }
+  ]
+}
