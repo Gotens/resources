@@ -38,7 +38,6 @@
       "patchVersion": "1.0.1",
       "patchUrl": "https://github.com/Gotens/resources/releases/download/default/game.zip",
       "patchNotes": "Cập nhật mô hình xe và sửa lỗi texture.",
-      
       "serverIp": "104.234.180.79",
       "serverPort": 7777
     }
