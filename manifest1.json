@@ -1,45 +1,59 @@
 {
-  "backgroundImgUrl": "https://raw.githubusercontent.com/Gotens/resources/main/background-2.png",
-  "backgroundMusicUrl": "https://raw.githubusercontent.com/Gotens/resources/main/background.mp3",
-  "items": [
-    {
-      "id": "1",
-      "title": "VIỆT NAM NO.1",
-      "url": "https://pubgesports.com/vi/teams/217",
-      "thumbnail": "https://cdnmedia.webthethao.vn/thumb/720-405/uploads/2025-07-25/pnc-2025-257.jpg"
-    },
-    {
-      "id": "2",
-      "title": "QUÉT THẺ NẠP MÃ",
-      "url": "https://www.youtube.com/watch?v=9tcFnx0-cQY",
-      "thumbnail": "",
-      "duration": "05:13"
-    },
-    {
-      "id": "3",
-      "title": "DEMO",
-      "url": "https://google.com/",
-      "thumbnail": "https://media.discordapp.net/attachments/1398605375309353011/1399767225409212587/CVFB1.png"
-    }
-  ],
-  "games": [
-    {
-      "title": "Game của tôi",
-      "gameVersion": "1.0.0",
-      "description": "Phiên bản đầu tiên",
-      "downloadUrls": {
-        "High": "",
-        "Medium": "",
-        "Low": "",
-        "Verylow": "https://github.com/Gotens/resources/releases/download/default/game.zip",
-        "default": "https://github.com/Gotens/resources/releases/download/default/game.zip"
+  "launcherAppearance": {
+    "backgroundImgUrl": "https://raw.githubusercontent.com/Gotens/resources/main/background-2.png",
+    "backgroundMusicUrl": "https://raw.githubusercontent.com/Gotens/resources/main/background.mp3"
+  },
+  "dynamicContent": {
+    "carouselItems": [
+      {
+        "id": 1,
+        "title": "VIỆT NAM NO.1",
+        "url": "https://pubgesports.com/vi/teams/217",
+        "thumbnail": "https://cdnmedia.webthethao.vn/thumb/720-405/uploads/2025-07-25/pnc-2025-257.jpg"
       },
-      "defaultConfig": "default",
-      "patchVersion": "1.0.0",
-      "patchUrl": "https://github.com/Gotens/resources/releases/download/default/game.zip",
-      "patchNotes": "Cập nhật mô hình xe và sửa lỗi texture.",
-      "serverIp": "104.234.180.79",
-      "serverPort": 7777
-    }
-  ]
+      {
+        "id": 2,
+        "title": "QUÉT THẺ NẠP MÃ",
+        "url": "https://www.youtube.com/watch?v=9tcFnx0-cQY",
+        "thumbnail": "https://img.youtube.com/vi/9tcFnx0-cQY/hqdefault.jpg",
+        "duration": "05:13"
+      },
+      {
+        "id": 3,
+        "title": "DEMO",
+        "url": "https://google.com/",
+        "thumbnail": "https://media.discordapp.net/attachments/1398605375309353011/1399767225409212587/CVFB1.png"
+      }
+    ]
+  },
+  "game": {
+    "id": "samp-vn-xuc-city",
+    "title": "Game của tôi",
+    "serverInfo": {
+      "ip": "104.234.180.79",
+      "port": 7777
+    },
+    "versioning": {
+      "latest": "1.0.0"
+    },
+    "downloadPackages": [
+      {
+        "id": "verylow-default",
+        "name": "Cấu hình Rất Thấp",
+        "url": "https://github.com/Gotens/resources/releases/download/default/game.zip",
+        "hash_sha256": "VUI_LONG_TINH_TOAN_VA_DIEN_HASH_SHA256_CUA_FILE_ZIP_VAO_DAY",
+        "size_bytes": 0
+      }
+    ],
+    "updatePatches": [
+      {
+        "fromVersion": "0.9.0",
+        "toVersion": "1.0.0",
+        "description": "Cập nhật mô hình xe và sửa lỗi texture.",
+        "type": "cumulative_zip",
+        "url": "https://github.com/Gotens/resources/releases/download/default/game.zip",
+        "hash_sha256": "VUI_LONG_TINH_TOAN_VA_DIEN_HASH_SHA256_CUA_FILE_PATCH_VAO_DAY"
+      }
+    ]
+  }
 }
