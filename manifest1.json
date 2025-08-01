@@ -38,11 +38,18 @@
     },
     "downloadPackages": [
       {
-        "id": "verylow-default",
+        "id": "verylow-config",
         "name": "Cấu hình Rất Thấp",
+        "url": "https://github.com/Gotens/resources/releases/download/verylow/game-verylow.zip",
+        "hash_sha256": "VUI_LONG_TINH_TOAN_HASH_CHO_FILE_VERYLOW",
+        "size_bytes": 1500000000
+      },
+      {
+        "id": "default-config",
+        "name": "Cấu hình Mặc Định",
         "url": "https://github.com/Gotens/resources/releases/download/default/game.zip",
-        "hash_sha256": "VUI_LONG_TINH_TOAN_VA_DIEN_HASH_SHA256_CUA_FILE_ZIP_VAO_DAY",
-        "size_bytes": 0
+        "hash_sha256": "VUI_LONG_TINH_TOAN_HASH_CHO_FILE_DEFAULT",
+        "size_bytes": 2500000000
       }
     ],
     "updatePatches": [
@@ -51,8 +58,8 @@
         "toVersion": "1.0.0",
         "description": "Cập nhật mô hình xe và sửa lỗi texture.",
         "type": "cumulative_zip",
-        "url": "https://github.com/Gotens/resources/releases/download/default/game.zip",
-        "hash_sha256": "VUI_LONG_TINH_TOAN_VA_DIEN_HASH_SHA256_CUA_FILE_PATCH_VAO_DAY"
+        "url": "https://github.com/Gotens/resources/releases/download/patch-1.0.0/patch.zip",
+        "hash_sha256": "VUI_LONG_TINH_TOAN_HASH_CHO_FILE_PATCH"
       }
     ]
   }
