@@ -1963,8 +1963,5 @@
       "hash": "d6e2566d7b85d1b6f913938bf672c0915dfc5db08d6ec826eecffda2ba21589f"
     }
   ],
-  "forbiddenFiles": [
-    "d3d9.dll",
-    "cleo.asi"
-  ]
+  "forbiddenFiles": []
 }
