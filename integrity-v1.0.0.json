@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "fileBaseUrl": "http://localhost/SAMPVN",
+  "fileBaseUrl": "http://localhost/SAMPVN/",
   "allowedFiles": [
     {
       "path": "audio.asi",
@@ -2455,4 +2455,5 @@
   ],
   "forbiddenFiles": []
 }
+
 
