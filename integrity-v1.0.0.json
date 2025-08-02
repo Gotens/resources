@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "fileBaseUrl": "C:\\xampp\\htdocs\\SAMPVN",
+  "fileBaseUrl": "http://localhost/SAMPVN",
   "allowedFiles": [
     {
       "path": "audio.asi",
@@ -2455,3 +2455,4 @@
   ],
   "forbiddenFiles": []
 }
+
