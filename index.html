@@ -36,6 +36,9 @@
             overflow: hidden;
             transition: max-height 0.5s cubic-bezier(0.4, 0, 0.2, 1), padding 0.5s cubic-bezier(0.4, 0, 0.2, 1);
             padding: 0 1.5rem;
+            /* === FIX: Thêm thuộc tính word-wrap để xử lý chữ bị mất === */
+            word-wrap: break-word;
+            overflow-wrap: break-word;
         }
         .accordion-item.active .accordion-content {
             padding: 1rem 1.5rem 1.5rem;
