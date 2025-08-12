@@ -1,10 +1,10 @@
 {
-  "version": "0.3.0",
+  "version": "0.4.0",
   "pub_date": "2025-08-12T02:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbERPZnRvMTBqSzRhQkJ5cFRudUs5Slc1b2NBYkpieGFwU203STcrYVl6RXEzTStlNGNzMmZYWTdHdFlteTJHL3BNY1dvd05haXFEQk8ralhJWDIyK2dDdENWcXFDbndjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU1MDMyMjk4CWZpbGU6U0EtTVAuVk5fMC4zLjBfeDY0LXNldHVwLmV4ZQo0MnVTcHYwWjQzcmNjMjAyaTdVOUFJQ2xsLzhZVTAvS2RueThIdXJycUVPVEpaand6ZG1ZeVUzVDY5VXhxU3FkMGovOThCTlBBc2VmZ0lvblkvQlJEUT09Cg==",
-      "url": "https://github.com/Gotens/resources/releases/download/V0.3.0/Xuc.City_0.3.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbERPZnRvMTBqS3hQb0R4SWVqejlaMnZaVmltcXY1MlhYbG1qcGM3WCsrRlJUcGRtMkIyNXlMZkd0RUhJT2lCRUorRS9NYkEwbUIwZmVZeHNYcUZXaHZVUTlRc2Y4UkF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU1MDU3NjYwCWZpbGU6U0EtTVAuVk5fMC40LjBfeDY0LXNldHVwLmV4ZQowVzRVMEZjUjBiMWEveDVDQVgwVTRCbnEvc2NPVWdCSlNITHJ5ZktRenJJTmc2K2wydE9nejZSR21xcnJuVnZQUjliaTVOL0JjcGFDVlIveitYVGdCUT09Cg==",
+      "url": "https://github.com/Gotens/resources/releases/download/V0.4.0/SA-MP.VN_0.4.0_x64-setup.exe"
     }
   }
 }
