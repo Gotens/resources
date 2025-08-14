@@ -1,10 +1,10 @@
 {
-  "version": "0.6.0",
-  "pub_date": "2025-08-14T10:52:00Z",
+  "version": "0.6.1",
+  "pub_date": "2025-08-14T19:08:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTTnFud1BZWVIxdm1xZmpHTVBzOHdjWFJqWEJtVmo0K0wyVXdaS3dpOWtjeUZLU1Fza2E4STdISTdHL09rbnRHTEVVUU9pcTljcS9yb2RyOGxhNmRFaERTalltZ1FQdXdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU1MTQzMzk4CWZpbGU6U0EtTVAuVk5fMC42LjBfeDY0LXNldHVwLmV4ZQpWR1hYZThoaUEyRmd3VHhSeUYrYnVDb281NjlNQUV0Z3RPWjZvMy9yZ3N0T2hCbjJ1WUcyeWpxNm5oS2F5OGxSdjBYZFllNTJvcFhmejVQMjU2QUdEdz09Cg==",
-      "url": "https://github.com/Gotens/resources/releases/download/V0.6.0/SA-MP.VN_0.6.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMkdCdlIvNXNRLytuTjNGT0J5ZzVZdFJmb3hUN0ZSa3B6ajREMkVrYkZaWlBpL0g5NmdiZkxrSktXY2luMkhLcDVKV0EvN1hyUDF0ZkQ0RUUrWUROblluRzJNVjhuaWdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU1MTczMTcxCWZpbGU6U0EtTVAuVk5fMC42LjFfeDY0LXNldHVwLmV4ZQpGRG1zU2YyR0w1ZTIwTURTQzYzN25xeGNjc1A1cjhKTElmMzJFVWkvTDJSNVNiemhUc01jQW1QUnRpaDB6RjhUQ09DMkY1QUY3SnRuZnZvSVphNGpEdz09Cg==",
+      "url": "https://github.com/Gotens/resources/releases/download/V0.6.1/SA-MP.VN_0.6.1_x64-setup.exe"
     }
   }
 }
