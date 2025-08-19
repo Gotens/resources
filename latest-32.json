@@ -1,0 +1,10 @@
+{
+  "version": "1.0.2",
+  "pub_date": "2025-08-19T20:42:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMkdCdlIvNXNRL3pZRkZFUTdabXZ0ZUtZYTByMzVXb2dORkRid01WUU5pd1pwZndIZUNFcFdjcnlsdlU4OVl1ZGtQdXFpak00V0JCOXNlc25QN3k2d3pGSGhMUGZFZUFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU1NjA1MTI2CWZpbGU6U0EtTVAuVk4gR2FtZSBMYXVuY2hlcl8xLjAuMl94ODZfZW4tVVMubXNpCk1hWVIzSGVJcVF3OHc3WXIxOG16UlNPdjFzRlhKc09WWjVza0ZTam96RHdaQVV3czJvakQzS3FOSm1KMVhmK0NEUVBIejMwTkFqOU1IaUc0ZjZDa0RRPT0K",
+      "url": "https://github.com/Gotens/resources/releases/download/V1.0.2/SA-MP.VN.Game.Launcher_1.0.2_x86_en-US.msi"
+    }
+  }
+}
