@@ -1,10 +1,10 @@
 {
-  "version": "1.0.4",
-  "pub_date": "2025-08-24T01:37:00Z",
+  "version": "1.0.5",
+  "pub_date": "2025-08-24T18:03:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMkdCdlIvNXNRLzgwV1RzaTJhbkRXWTdzZXNNQ2xMb3k5VU5SeHIvVkMvYUYzbXBKcUZ0bFErdVFPbzBuM0xucU9LWVRxTHdKSzdZTVdXR0s5eHNxTE92Vkw1SzRiMVFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU1OTc0MDkzCWZpbGU6U0EtTVAuVk4gR2FtZSBMYXVuY2hlcl8xLjAuNF94NjRfZW4tVVMubXNpCkFHTmI5U09QOXVCQ2pEbE4xcWJwZ3RGYXlCdnJZdDJweTdYa0ROV05oZ2JrNktnTXRWdUVlTFBPeEVzRTMzVGVkQnRZQlRQSGF5WHQwdkQwRS9TL0R3PT0K",
-      "url": "https://github.com/Gotens/resources/releases/download/V1.0.2/SA-MP.VN.Game.Launcher_1.0.4_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMkdCdlIvNXNRLys3Q3JMVHhCQVJIWVQzaTZ4cGpiM3lFekEvU1QwVmd0RndtRG9aWE9uckJmcGtlZENYV2hCck40RUpxQWUySk1LL0gzNmpYVFBXODNrTUhYMnlVTVFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU2MDMzMjUxCWZpbGU6U0EtTVAuVk4gR2FtZSBMYXVuY2hlcl8xLjAuNV94NjRfZW4tVVMubXNpClcyS2l4VnlnVXIwd0U5Z1JtS3RxcHUwaUFzWGV1Z2NSZmRPUStPZHgrTXhiSTBadDJqeDBrTnZVUHNWU05nZTBYd1pMemIzKzVDOVZFRmZJRitxY0JRPT0K",
+      "url": "https://github.com/Gotens/resources/releases/download/V1.0.2/SA-MP.VN.Game.Launcher_1.0.5_x64_en-US.msi"
     }
   }
 }
