@@ -1,10 +1,10 @@
 {
-  "version": "1.2.2",
+  "version": "1.1.2",
   "pub_date": "2025-09-17T18:56:00Z",
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMkdCdlIvNXNRLzBJbUo3VXhmWkpmN3Jjd2JsYmNGTDVOaUY2NjhzZE82MUFIT2lwKzNTaCtjNjYrcHU1RjRsOG15dzh0M0JlYkpqL1NTTFlybEs1RW01U1FYYjF2WGc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU4MTEwMDQ0CWZpbGU6U0EtTVAuVk4gR2FtZSBMYXVuY2hlcl8xLjEuMl94NjRfZW4tVVMubXNpClozRHR1TUpURUhkb1JpTG9UNzdUdTN5WnNESlBSTDhUL1VIRHpMSDJKYk1NZjdSZzdEK0piSVJ0UmdFZWRwQVlTdkpucUhyZFhiTmszZTZ3L2w0WEF3PT0K",
-      "url": "mediafire.com/file/ictst68sndl72v3/SA-MP.VN.Game.Launcher_1.1.2_x64_en-US.msi"
+      "url": "http://14.225.207.220/launcher-pc/SA-MP.VN.Game.Launcher_1.1.2_x64_en-US.msi"
     }
   }
 }
